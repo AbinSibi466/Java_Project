@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CineTicket">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Cine-Ticket/cineticket-main/out/artifacts/CineTicket_jar2/CineTicket.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="CineTicket1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Cine-Ticket/cineticket-main/out/artifacts/CineTicket_jar/CineTicket.jar!/" />
+      <root url="file://$PROJECT_DIR$/Cine-Ticket/cineticket-main/out/artifacts/CineTicket_jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/Cine-Ticket/cineticket-main/out/artifacts/CineTicket_jar" recursive="false" />
+  </library>
+</component>
